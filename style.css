@@ -14,7 +14,7 @@
   ====================================
   */
   nav a {
-    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     padding: 0.5em 0.5em 0.5em 0.5em;
   }
   
@@ -43,7 +43,7 @@
   */
   
   .section-logo {
-    width: 425px;
+    width: 250px;
     height: 100%;
   }
   
@@ -67,7 +67,7 @@
   h4,
   h5,
   h6 {
-    font-family: "Open Sans", sans-serif;
+    font-family: "arial", sans-serif;
     color: navy;
     line-height: 1em;
   }
@@ -94,21 +94,17 @@
   }
   
   .type-faces-01 {
-    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-family: Arial, sans-serif;
   }
   
   .type-faces-02 {
-    font-family: "Open Sans", sans-serif;
+    font-family: "Helvetica", sans-serif;
   }
   
   
-  /* 
-  ==========================
-  Sets up styles for colors 
-  ===========================
-  */
+
   
-  /* Makes a circle shape to serve a color box */ 
+  /* circles and colors inside */ 
   
   .color-shape {
     display: block;
@@ -121,29 +117,29 @@
     box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.4);
   }
   
-  /* Makes colors */ 
+  /* colors */ 
   .color-red {
-    background: red;
+    background: lightgreen;
   }
   
   .color-orange {
-    background: orange;
+    background: navy;
   }
   
   .color-yellow {
-    background: yellow;
+    background: lightblue
   }
   
   .color-green {
-    background: green;
+    background: lightcoral;
   }
   
   .color-blue {
-    background: blue;
+    background: purple;
   }
   
   .color-purple {
-    background: indigo;
+    background: red;
   }
   
   .color-black {
