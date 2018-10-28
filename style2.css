@@ -67,6 +67,7 @@ Sets up styles for .content-container
 }
 
 .row-container-around {
+
     width: 100%;
     display: flex;
     /* sets spacing between elements in container */
